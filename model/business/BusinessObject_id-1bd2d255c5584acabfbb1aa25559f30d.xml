@@ -1,0 +1,7 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Позиция резервуара"
+    id="id-1bd2d255c5584acabfbb1aa25559f30d">
+  <properties
+      key="Позиция"/>
+</archimate:BusinessObject>

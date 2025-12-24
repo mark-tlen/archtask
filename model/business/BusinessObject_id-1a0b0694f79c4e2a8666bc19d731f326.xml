@@ -1,0 +1,7 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Позиция заправщика"
+    id="id-1a0b0694f79c4e2a8666bc19d731f326">
+  <properties
+      key="Позиция"/>
+</archimate:BusinessObject>
